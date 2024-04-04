@@ -58,7 +58,7 @@ body {
     margin-top: 20px;
     width: 100%;
     align-items: center;
-    text-align: center; /* Ensure text is centered within content */
+    text-align: justify; /* Ensure text is justify */
   }
   
   .content img {
